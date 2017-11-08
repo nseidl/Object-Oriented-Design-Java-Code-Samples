@@ -1,7 +1,6 @@
-# Object-Oriented-Design-Java-Code-Samples
-###### Coding samples from Object Oriented Design class assignments.
-
+# ood-code-samples
 ## Code available upon request.
+###### Coding samples from Object Oriented Design class assignments.
 
 #### Class is focused on design patterns, clean and modular code, rigorous testing, and the Model-View-Controller architecture.
 
