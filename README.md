@@ -1,7 +1,9 @@
 # Object-Oriented-Design-Java-Code-Samples
-Coding samples from Object Oriented Design class assignments.
+###### Coding samples from Object Oriented Design class assignments.
 
-Class is focused on design patterns, clean and modular code, rigorous testing, and the Model-View-Controller architecture.
+## Code available upon request.
+
+#### Class is focused on design patterns, clean and modular code, rigorous testing, and the Model-View-Controller architecture.
 
 Assignment 2: Implement a model for the game Freecell (similar to Solitaire) based on a given Interface. Make design decisions based on future flextibility and expandability and ease of integration.
 
