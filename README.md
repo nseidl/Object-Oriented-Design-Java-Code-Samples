@@ -13,3 +13,5 @@ Assignemt 4: Implement a new version of a model for Freecell, where multiple car
 Assignment 5: Design the model and all necessary Interfaces, Abstract classes, and concrete classes for an animation program. The program should model shapes on a cavas and their transformations. Focus on future expansion.
 
 Assignment 6: Implement a textual view, an SVG view, and a Java Swing view based on the model.
+
+Assignent 7: Add interactive functionality to the animator, where users can play/pause, select shapes, loop, change speed, etc.
